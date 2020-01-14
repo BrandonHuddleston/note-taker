@@ -6,10 +6,11 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
-  }
-  
-    
-  "repository": {
-  "type": "git",
-  "url": "git+https://github.com/BrandonHuddleston/note-taker.git"
-  }
+  },
+"author": "",
+"license": "ISC",
+"dependencies": {
+  "express": "^4.16.4",
+  "mysql": "^2.16.0"
+}
+}
